@@ -28,7 +28,7 @@ Advanced AutoClicker For Minecraft Made In C#.
 # Version
 - V1.0.0
    - Initial Release
-# Clicker interface by version:
-![V1.0.0](https://i.ibb.co/dkCn6y2/image.png)
+   - ![V1.0.0](https://i.ibb.co/dkCn6y2/image.png)
+
 
   
