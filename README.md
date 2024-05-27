@@ -22,7 +22,8 @@ Advanced AutoClicker For Minecraft Made In C#.
   - Hotkey
   - Eat / Bow
 - Settings
-  - Hide Autoclicker
+  - Hide Program
+  - Top Most Program
 # Authors
 - Contributors names and contact info
 # Version
