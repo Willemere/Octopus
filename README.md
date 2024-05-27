@@ -28,7 +28,17 @@ Advanced AutoClicker For Minecraft Made In C#.
 # Version
 - V1.0.0
    - Initial Release
-   - ![V1.0.0](https://i.ibb.co/dkCn6y2/image.png)
+![V1.0.0](https://i.ibb.co/dkCn6y2/image.png)
+![V1.0.0](https://i.ibb.co/qFyY0mh/image.png)
+![V1.0.0](https://i.ibb.co/drHLQjQ/image.png)
+- V1.0.1
+   - Bug fixes [*]
+     - Blockhit fix
+     - Hotkey & Hide program fix
+   - Top Most added [+]
+![V1.0.0](https://i.ibb.co/dkCn6y2/image.png)
+![V1.0.0](https://i.ibb.co/qFyY0mh/image.png)
+![V1.0.0](https://i.ibb.co/xqrwdgf/image.png)
 
 
   
